@@ -5,7 +5,7 @@ from scripts.helpful_scripts import get_account
 def main():
     get_weth()
 
-
+# author Arashi
 # Convert ETH to WETH
 def get_weth():
     """
